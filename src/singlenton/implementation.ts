@@ -1,3 +1,4 @@
+// Description: Ensures a class has only one instance and provides a global point of access to it.
 class Singleton {
   private static instance: Singleton;
 
